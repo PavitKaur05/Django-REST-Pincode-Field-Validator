@@ -1,6 +1,4 @@
-# Django_Task2
-
-Task 2
+# Pincode-Field-Validator
 
 Created a Custom Pincode field validator using Django’s REST framework, taken data in JSON format via postman and created appropriate views to validate data and send a custom response.
 
